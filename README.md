@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/schatten-der-nacht/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Schatten der Nacht](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/schatten-der-nacht/) |
+| **Get License** | [Commercial Licensing for Schatten der Nacht](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/schatten-der-nacht/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Schwarzer Benzer, tiefe Nacht, du bist mein Vibe, yeah
+> Deine Blicke treffen mich, killen die Zeit, yeah
+> Wir verschwinden in den Schatten der Nacht
+> Hast das Feuer in mir wieder entfacht
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
