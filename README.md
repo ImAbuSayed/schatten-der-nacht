@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/schatten-der-nacht/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Schatten der Nacht](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/schatten-der-nacht/) |
+| **Get License** | [Obtain a Music License for Schatten der Nacht](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/schatten-der-nacht/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `7c140905d5b17040ff176c196bacf5432e3781d703cba0271400efdaf1094b44` |
 | **Timestamp** | June 27, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

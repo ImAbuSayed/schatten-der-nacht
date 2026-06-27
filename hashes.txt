@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Schatten der Nacht
+
+This log tracks the cryptographic history and versioning for the song **Schatten der Nacht** (schatten-der-nacht).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-27T06:52:03.111863 | `v1` | `7c140905d5b17040ff176c196bacf5432e3781d703cba0271400efdaf1094b44` | `b07af67195d69a36b2d1d1b65f7d028eb19334e9a7310ad4a39507afa985d165` | `2026-06-27_schatten-der-nacht-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
